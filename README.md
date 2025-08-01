@@ -1,4 +1,4 @@
-# MiniBlog
+# Funny MiniBlog
 
 A blogging engine based on HTML5 and ASP.NET. For an ASP.NET Core version, see [Miniblog.Core](https://github.com/madskristensen/Miniblog.Core).
 
